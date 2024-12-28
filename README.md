@@ -1,4 +1,4 @@
-**JUST A TRAİNİNG WORK NOT A PROJECT**
+**JUST A TRAINING WORK NOT A PROJECT**
 
 **COURSE:** https://www.udemy.com/course/spring-boot-and-spring-framework-tutorial-for-beginners/?couponCode=KEEPLEARNING
 
